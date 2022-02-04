@@ -1,2 +1,2 @@
-# typography
+# Typography
 HTML&amp;CSS Typography Template
